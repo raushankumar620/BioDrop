@@ -194,6 +194,25 @@ Here are some testimonials from individuals who have used BioDrop:-
 
 <!-- Testimonials ENDs Here -->
 
+
+<!-- Migration Resources -->
+
+🛠️ Migration Resources (Post-Archive Help)
+BioDrop is no longer active after 10 June 2024, and all database data has been deleted. However, if you loved your BioDrop profile and want to preserve or migrate your data, here are some helpful options:
+
+📦 Export Your BioDrop Profile JSON:
+If you still have your JSON file, consider backing it up locally or adding it to your personal GitHub repo.
+
+🔗 Move to LinkFree (Fork)
+Some forks of BioDrop (e.g., LinkFree) are maintained by the community. You can migrate your JSON profile to them and continue showcasing your links.
+
+🧰 Build Your Own Profile Page
+Use your BioDrop JSON structure and create a static portfolio using tools like Next.js or Hugo.
+
+💬 Join the EddieHub Discord Community
+Stay in touch and explore future open source projects: Join here
+
+
 ## GitHub Accelerator
 
 BioDrop was accepted into the GitHub Accelerator program...
